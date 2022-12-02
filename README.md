@@ -18,4 +18,4 @@ Civl Engineer · Youtuber · Machine Learning Engineer (The Goal)
 </div>
 
 <br>
-<hr>
+
