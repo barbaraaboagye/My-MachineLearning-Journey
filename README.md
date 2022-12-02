@@ -3,7 +3,7 @@
 <div align="center">
 Civl Engineer · Youtuber · Machine Learning Engineer (The Goal)
     <br>
-    Sharing my progress as I learn machine learning
+    Sharing and documenting my progress and journey as I learn machine learning
      <br>
 </div>
 
