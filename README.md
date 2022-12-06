@@ -20,3 +20,7 @@ Researcher. Civl Engineer · Youtuber · Machine Learning Engineer (The Goal)
 <br>
 
 The resources I am using can be found [here](https://github.com/barbaraaboagye/My-MachineLearning-Journey/blob/492e4be3db9c2480ffd21b20bd580d753da33226/MACHINE%20LEARNING%20ROADMAP.md)
+
+## APPROACH
+- Developed a learning roadmap to follow.
+- Followed people who work in the machine learning space on twitter and engage and read their tweets
