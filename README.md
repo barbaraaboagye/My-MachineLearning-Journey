@@ -1,7 +1,7 @@
 # My Machine Learning Journey
 
 <div align="center">
-Civl Engineer · Youtuber · Machine Learning Engineer (The Goal)
+Researcher. Civl Engineer · Youtuber · Machine Learning Engineer (The Goal)
     <br>
     Sharing and documenting my progress and journey as I learn machine learning
      <br>
