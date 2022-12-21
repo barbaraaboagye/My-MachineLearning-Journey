@@ -1,7 +1,7 @@
 # Predicting concrete compressive strength
 
 
-In this project, I will be learning how to predict concrete compressive strength based on data obtained from [kaggle](https://www.kaggle.com/datasets/maajdl/yeh-concret-data). The dataset can also be found here on my github. The data contains information about congrete ingredients, age and compressive strength. 
+In this project, I will be learning how to predict concrete compressive strength based on data obtained from [kaggle](https://www.kaggle.com/datasets/maajdl/yeh-concret-data). The dataset can also be found here on my [github](https://github.com/barbaraaboagye/My-MachineLearning-Journey/blob/588392422ba977aeb6cffc2874d522ccc7332ad7/Projects/predicting-concrete-compressive-strength/Concrete_Data_Yeh.csv). The data contains information about concrete ingredients, age and compressive strength. 
 
  ![146-1467927_the-concrete-compression-test-png-download-concrete-compression](https://user-images.githubusercontent.com/53621744/208937629-6a293947-8280-4ad7-8b4a-f56f781dd1b6.png)
  
