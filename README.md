@@ -24,4 +24,4 @@ The resources I am using can be found [here](https://github.com/barbaraaboagye/M
 ## APPROACH
 - Developed a learning roadmap to follow.
 - Followed people who work in the machine learning space on twitter and engage and read their tweets
-- Taking the (Intro to Machine Learning)[https://www.kaggle.com/learn/intro-to-machine-learning] from kaggle
+- Taking the [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) from kaggle
