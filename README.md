@@ -25,3 +25,7 @@ The resources I am using can be found [here](https://github.com/barbaraaboagye/M
 - Developed a learning roadmap to follow.
 - Followed people who work in the machine learning space on twitter and engage and read their tweets
 - Taking the [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) from kaggle
+
+## CHANGE OF PLANS
+
+In March 2023 after a months break, I have decided to follow the framework/roadmap of [Made with ML](https://madewithml.com/)
