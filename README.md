@@ -29,3 +29,5 @@ The resources I am using can be found [here](https://github.com/barbaraaboagye/M
 ## CHANGE OF PLANS
 
 In March 2023 after a months break, I have decided to follow the framework/roadmap of [Made with ML](https://madewithml.com/)
+- March 12 - 19 : Finished the python framework
+
