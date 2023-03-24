@@ -31,5 +31,8 @@ The resources I am using can be found [here](https://github.com/barbaraaboagye/M
 In March 2023 after a months break, I have decided to follow the framework/roadmap of [Made with ML](https://madewithml.com/)
 - March 12 - 19 : Finished the python foundation framework
     - Functions, Methods, List,Tuples, Sets, Dictionaries, list comprehension, Decorators, Callback etc
+- March 20 - 23 : Finished the numpy foundation
+    - Mathematical objects of linear algebra, indexing and mathematical operations, joining tensors, transpose, etc
+- March 24 -   : 
     
 
