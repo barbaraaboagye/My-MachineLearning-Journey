@@ -33,6 +33,7 @@ In March 2023 after a months break, I have decided to follow the framework/roadm
     - Functions, Methods, List,Tuples, Sets, Dictionaries, list comprehension, Decorators, Callback etc
 - March 20 - 23 : Finished the numpy foundation
     - Mathematical objects of linear algebra, indexing and mathematical operations, joining tensors, transpose, etc
-- March 24 -   : 
+- March 24 - 27  : Finished Pandas foundation
+    - creating dataframes, exploratory data analysis (.describe(), .hist(), .corr()), pre-processing (.dropna(),.drop(),.reset_index()), filtering,indexing,grouping,saving, etc
     
 
