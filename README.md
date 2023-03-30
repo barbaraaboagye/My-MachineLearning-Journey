@@ -36,6 +36,7 @@ In March 2023 after a months break, I have decided to follow the framework/roadm
 - March 24 - 27  : Finished Pandas foundation
     - creating dataframes, exploratory data analysis (.describe(), .hist(), .corr()), pre-processing (.dropna(),.drop(),.reset_index()), filtering,indexing,grouping,saving, etc.
 - March 28 -  : 
+ <br>
 PS: I am havig a hard time installing `torch`on my mac 😭.
     
 
