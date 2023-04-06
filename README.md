@@ -39,6 +39,6 @@ In March 2023 after a months break, I have decided to follow the framework/roadm
     - creating tensor, operations on tensors, indexing, slicing, joining,gradients, etc <br>
 PS: I had a hard time installing `torch`on my mac 😭 or better said using torch on vscode maybe?. Once i installed the torch on conda, I had to change the kernel to Pytorch. I missed two study session, trying to figure this out. But I figured it out. Better late than never.
     
-### BREAK: April 6 to May 1st 
+## BREAK: April 6 to May 1st 
 
 I am taking a pause on this from April 6 to May 1st. I have other pressing commitments I have to work on in April (ee).
