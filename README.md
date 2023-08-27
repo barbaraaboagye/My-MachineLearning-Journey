@@ -42,3 +42,7 @@ PS: I had a hard time installing `torch`on my mac 😭 or better said using torc
 ## BREAK: April 6 to May 1st 
 
 I am taking a pause on this from April 6 to May 1st. I have other pressing commitments I have to work on in April (ee).
+
+## LIFE HAPPENED : Aug 27
+
+I am back again.
