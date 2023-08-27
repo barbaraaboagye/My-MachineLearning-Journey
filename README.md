@@ -45,4 +45,5 @@ I am taking a pause on this from April 6 to May 1st. I have other pressing commi
 
 ## LIFE HAPPENED : Aug 27
 
-I am back again.
+I am back again. Started learning through projects 
+- Resume scanner
