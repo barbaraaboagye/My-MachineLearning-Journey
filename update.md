@@ -1,2 +1,3 @@
 - Aug 27 : Started with a Resume scanner project
 - Aug 28 : Continued and watched some videos.
+- Aug 29 : Still on it
