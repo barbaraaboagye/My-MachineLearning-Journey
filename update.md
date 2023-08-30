@@ -1,3 +1,3 @@
-- Aug 27 : Started with a Resume scanner project
-- Aug 28 : Continued and watched some videos.
+- Aug 27 : Started with a Resume scanner project - Data collection, Exploratory data analysis & Pre processing.
+- Aug 28 : Continued and watched some videos - Feature extraction & Training a classifier
 - Aug 29 : Still on it
