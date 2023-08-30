@@ -6,3 +6,5 @@
 
   - Get 5 CVs of high achieving scholars
   - Find the words that are frequent in their CV
+  - Look at the frequent words in a job description and compare them
+  - Fine the suitability of the CV to the job description
