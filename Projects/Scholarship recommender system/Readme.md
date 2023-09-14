@@ -1,46 +1,78 @@
-# Scholarship Database Cleaning and Transformation Documentation
+# Scholarship Recommender and Database Cleaning
 
-## Introduction
-This Python script is designed to clean and transform a scholarship database from a CSV file named "scholarshipdatabase.csv." It performs data cleaning operations to handle missing data and restructures the dataset for further analysis. The cleaned dataset is then saved as "scholarship_df.csv."
+This repository contains two Python scripts for working with scholarship data: one for recommending scholarships based on a user's area of specialization and the other for cleaning and transforming a scholarship database. Below are details on how to use each script.
 
-## Libraries Used
+### Scholarship Database Cleaning
+
+### Introduction
+The Scholarship Database Cleaning script cleans and transforms a scholarship database from a CSV file named "scholarshipdatabase.csv." It handles missing data and restructures the dataset for analysis.
+
+### Libraries Used
 - `numpy` for numerical operations.
 - `pandas` for data manipulation and DataFrame operations.
-- `matplotlib` for data visualization (not explicitly used in this code).
 
-## Usage
+### Usage
+1. **Data Loading**: The script loads the scholarship dataset from "scholarshipdatabase.csv" into a Pandas DataFrame.
 
-### Data Loading
-1. The script loads the scholarship dataset from "scholarshipdatabase.csv" into a Pandas DataFrame (`df`).
+2. **Data Exploration**:
+   - Displays the first few rows of the dataset.
+   - Retrieves information about the dataset.
 
-### Data Exploration
-1. Displays the first few rows of the dataset using `df.head()`.
-2. Retrieves information about the dataset using `df.info()`.
+3. **Data Cleaning - Handling Missing Data**:
+   - Identifies missing data in the dataset.
+   - Creates a new DataFrame with selected features.
+   - Splits certain columns into separate rows.
+   - Resets the index for unique labels.
 
-### Data Cleaning - Handling Missing Data
-1. Identifies missing data in the dataset using `df.isnull().sum()`.
-2. Creates a new DataFrame (`data`) with selected features: 'Name,' 'Area of specialisation,' 'Country,' and 'Level needed.'
-3. Splits the 'Area of specialisation' column into separate rows using `,` as a delimiter.
-4. Splits the 'Country' column into separate rows using `,` as a delimiter.
-5. Splits the 'Level needed' column into separate rows using `,` as a delimiter.
-6. Resets the index of the DataFrame to have unique index labels.
+4. **Data Cleaning - Handling Missing Data (Continued)**:
+   - Further identifies missing data in the cleaned dataset.
+   - Drops rows with missing 'Name' values.
+   - Fills remaining missing values with empty strings.
 
-### Data Cleaning - Handling Missing Data (Continued)
-1. Further identifies missing data in the cleaned dataset using `data.isnull().sum()`.
-2. Drops rows with missing values in the 'Name' column using `data.dropna(subset=['Name'], inplace=True)`.
+5. **Data Saving**:
+   - Saves the cleaned dataset as "scholarship_df.csv."
 
-### Data Cleaning - Handling Missing Data (Continued)
-1. Fills remaining missing values with empty strings using `data.fillna('', inplace=True)`.
-
-### Data Saving
-1. Saves the cleaned and transformed dataset as "scholarship_df.csv" using `data.to_csv('scholarship_df.csv', index=False)`.
-
-## Customization
+### Customization
 - You can modify the list of selected features in the 'features' variable to include or exclude specific columns from the cleaned dataset.
-- The script assumes that the input dataset is in the format provided in "scholarshipdatabase.csv." Adjustments may be necessary if the dataset format differs.
-
-## Limitations
-- The script handles missing data by either dropping rows with missing 'Name' values or filling missing values with empty strings. Consider alternative strategies for handling missing data based on the specific dataset and analysis goals.
+- Ensure your input dataset follows a similar format to "scholarshipdatabase.csv" for successful cleaning and transformation.
 
 ## Conclusion
-This script provides a data cleaning and transformation process for scholarship data, making it suitable for further analysis and exploration. The cleaned dataset is saved as "scholarship_df.csv" for future use.
+These scripts provide a scholarship recommendation system and data cleaning process, making it easier to explore and analyze scholarship data. Customize the scripts to suit your specific dataset and needs.
+
+Feel free to use, modify, and enhance these scripts for your scholarship-related projects.
+
+## Scholarship Recommender
+
+### Introduction
+The Scholarship Recommender script allows users to find relevant scholarships or universities based on their area of specialization or interest. It utilizes fuzzy string matching to identify similar specializations in a given dataset of scholarships.
+
+### Libraries Used
+- `pandas` for data manipulation and DataFrame operations.
+- `fuzzywuzzy` for fuzzy string matching.
+
+### Usage
+1. **Input**: Run the script, and it will prompt you to enter your area of specialization.
+
+2. **Data Loading**: The script loads scholarship data from a CSV file named "scholarship_df.csv" into a Pandas DataFrame.
+
+3. **Data Preprocessing**:
+   - Converts the 'Area of Specialisation' column in the DataFrame to lowercase for case-insensitive matching.
+   - Creates a list of unique specializations from the DataFrame.
+
+4. **Similarity Scoring**:
+   - Initializes a dictionary to store similarity scores between the user's input and specializations.
+   - Calculates similarity scores using fuzzy string matching for each specialization in the dataset.
+   - Sorts the specializations by similarity score in descending order.
+   - Extracts matched specializations based on a similarity score threshold (adjustable).
+
+5. **Recommendation**:
+   - Filters scholarships based on matched specializations.
+   - Removes duplicate scholarships based on their names.
+   - Provides a list of recommended scholarships/universities.
+
+### Customization
+- You can adjust the similarity score threshold to control the level of similarity between the user's input and recommended specializations.
+- Ensure your dataset is in the same format with a column named 'Area of Specialisation' for best results.
+
+
+
