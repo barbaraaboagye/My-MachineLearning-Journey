@@ -37,9 +37,7 @@ The Scholarship Database Cleaning script cleans and transforms a scholarship dat
 - Ensure your input dataset follows a similar format to "scholarshipdatabase.csv" for successful cleaning and transformation.
 
 ## Conclusion
-These scripts provide a scholarship recommendation system and data cleaning process, making it easier to explore and analyze scholarship data. Customize the scripts to suit your specific dataset and needs.
-
-
+This script provides a data cleaning and transformation process for scholarship data, making it suitable for further analysis and exploration. The cleaned dataset is saved as "scholarship_df.csv" for future use.
 
 ## 2. Scholarship Recommender System
 
@@ -74,5 +72,6 @@ The Scholarship Recommender script allows users to find relevant scholarships or
 - You can adjust the similarity score threshold to control the level of similarity between the user's input and recommended specializations.
 - Ensure your dataset is in the same format with a column named 'Area of Specialisation' for best results.
 
-
+### Conclusion
+This script offers a simple scholarship recommendation system based on user input and fuzzy string matching. It can be customized and extended to handle larger datasets and provide more advanced recommendation features.
 
