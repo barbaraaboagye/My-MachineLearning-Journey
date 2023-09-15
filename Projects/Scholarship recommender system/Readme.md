@@ -1,6 +1,6 @@
 # Scholarship Database Cleaning and Scholarship Recommender System
 
-This repository contains two Python scripts for working with scholarship data: one for cleaning and transforming a scholarship database([Data processing](https://github.com/barbaraaboagye/My-MachineLearning-Journey/blob/1e19a3a7caf86f8b0603ed100144ff94d536a769/Projects/Scholarship%20recommender%20system/Data_processing.ipynb)) and the other for recommending scholarships([Scholarship recommender system]()) based on a user's area of specialization. Below are details on how to use each script.
+This repository contains two Python scripts for working with scholarship data: one for cleaning and transforming a scholarship database([Data processing](https://github.com/barbaraaboagye/My-MachineLearning-Journey/blob/1e19a3a7caf86f8b0603ed100144ff94d536a769/Projects/Scholarship%20recommender%20system/Data_processing.ipynb)) and the other for recommending scholarships([Scholarship recommender system](https://github.com/barbaraaboagye/My-MachineLearning-Journey/blob/341290ad75417f9f04a2b5ee7628721e343afa05/Projects/Scholarship%20recommender%20system/Scholarship%20recommender%20system.ipynb)) based on a user's area of specialization. Below are details on how to use each script.
 
 ### 1. Scholarship Database Cleaning 
 
