@@ -1,8 +1,8 @@
-# Scholarship Recommender and Database Cleaning
+# Scholarship Database Cleaning and Scholarship Recommender System
 
-This repository contains two Python scripts for working with scholarship data: one for recommending scholarships based on a user's area of specialization and the other for cleaning and transforming a scholarship database. Below are details on how to use each script.
+This repository contains two Python scripts for working with scholarship data: one for cleaning and transforming a scholarship database() and the other for recommending scholarships() based on a user's area of specialization. Below are details on how to use each script.
 
-### Scholarship Database Cleaning
+### 1. Scholarship Database Cleaning 
 
 ### Introduction
 The Scholarship Database Cleaning script cleans and transforms a scholarship database from a CSV file named "scholarshipdatabase.csv." It handles missing data and restructures the dataset for analysis.
@@ -39,9 +39,9 @@ The Scholarship Database Cleaning script cleans and transforms a scholarship dat
 ## Conclusion
 These scripts provide a scholarship recommendation system and data cleaning process, making it easier to explore and analyze scholarship data. Customize the scripts to suit your specific dataset and needs.
 
-Feel free to use, modify, and enhance these scripts for your scholarship-related projects.
 
-## Scholarship Recommender
+
+## 2. Scholarship Recommender System
 
 ### Introduction
 The Scholarship Recommender script allows users to find relevant scholarships or universities based on their area of specialization or interest. It utilizes fuzzy string matching to identify similar specializations in a given dataset of scholarships.
