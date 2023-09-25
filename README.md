@@ -47,3 +47,12 @@ I am taking a pause on this from April 6 to May 1st. I have other pressing commi
 
 I am back again. Started learning through projects 
 - Resume scanner : I finished this. The scanner takes a CV and builds a word cloud. It also can take a job description and use the `similarity function` to determine whether you are well suited for the job.
+
+## SCHOLARSHIP DATABASE RECOMMENDER : Sep 4 to Sep 16 
+
+I cleaned the database from the scholarship database and created a Python based scholarship database, where a user enters the program of interest and a list of scholarships or likely schools are suggested. 
+
+## WEB SCRAPING : Sep 18 to
+
+- Sep 25: This is hard. I am currently just watching videos. I tried to scrape data off Twitter but it looks like the API is currently not working. I want to use this knowledge or skill to get scholarship data from universities or scholarship sites. Let's see how it goes. I haven't written any codes yet. Just watching videos at the moment.
+
