@@ -52,12 +52,13 @@ I am back again. Started learning through projects
 
 I cleaned the database from the scholarship database and created a Python based scholarship database, where a user enters the program of interest and a list of scholarships or likely schools are suggested. 
 
-## WEB SCRAPING : Sep 18 to
+## WEB SCRAPING : Sep 18 to Sep 28
 
 - Sep 25: This is hard. I am currently just watching videos. I tried to scrape data off Twitter but it looks like the API is currently not working. I want to use this knowledge or skill to get scholarship data from universities or scholarship sites. Let's see how it goes. I haven't written any codes yet. Just watching videos at the moment.
 - Sep 26 : How to use Find and Find_All to find information from a website
 - Sep 27 : Started with trying to extract the table data in the scholarship database
 - Sep 28 : Finished a web scraping project
+I am learning web scraping to be able to extract scholarship data directly from websites and update it to the scholarship database but I can't seem to figure out yet how to achieve this. ***Sighs**
 
 
 
