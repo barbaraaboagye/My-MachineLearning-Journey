@@ -60,6 +60,9 @@ I cleaned the database from the scholarship database and created a Python based 
 - Sep 28 : Finished a web scraping project
 I am learning web scraping to be able to extract scholarship data directly from websites and update it to the scholarship database but I can't seem to figure out yet how to achieve this. ***Sighs**
 
+## STREAMLIT APP : Nov 7 to Nov
 
+- Nov 7 : I watched videos on how to use streamlit to create an app and deploy it. I realised my Github has been marked as spam, and I don't have access to my files. I have sent a reclamation form.
+- Nov 8 : I created an app for the scholarship recommendation system. It is hosted on my computer atm.
 
 
