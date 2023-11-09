@@ -64,5 +64,6 @@ I am learning web scraping to be able to extract scholarship data directly from 
 
 - Nov 7 : I watched videos on how to use streamlit to create an app and deploy it. I realised my Github has been marked as spam, and I don't have access to my files. I have sent a reclamation form.
 - Nov 8 : I created an app for the scholarship recommendation system. It is hosted on my computer atm.
+- Nov 9 : My Github works now :-). I couldn't access stuff since September. Apparently it was because I opened another account. I opened another account because I couldn't access the information on here.
 
 
