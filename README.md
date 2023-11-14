@@ -65,6 +65,6 @@ I am learning web scraping to be able to extract scholarship data directly from 
 - Nov 7 : I watched videos on how to use streamlit to create an app and deploy it. I realised my Github has been marked as spam, and I don't have access to my files. I have sent a reclamation form.
 - Nov 8 : I created an app for the scholarship recommendation system. It is hosted on my computer atm.
 - Nov 9 : My Github works now :-). I couldn't access stuff since September. Apparently it was because I opened another account. I opened another account because I couldn't access the information on here.
-- Nov 13 : I tried to deploy the app using streamlit but it gave me errors. To deploy you need to create a new repository with the files you want to deploy. The error is from the requirements.txt file. It says I need to upgrade.
+- Nov 13 : I tried to deploy the app using streamlit but it gave me errors. To deploy you need to create a new repository with the files you want to deploy. The error is from the requirements.txt file. It says I need to upgrade. Well I deployed my first app today. The [scholarship recommender system](https://scholarship-recommender-system.streamlit.app/#what-do-you-do-next-with-this-information). The initial problem was with the `requirements.txt` file. Once I just included the libraries. It worked like magic. 
 
 
