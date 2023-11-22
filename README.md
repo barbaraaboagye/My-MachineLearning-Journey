@@ -67,4 +67,5 @@ I am learning web scraping to be able to extract scholarship data directly from 
 - Nov 9 : My Github works now :-). I couldn't access stuff since September. Apparently it was because I opened another account. I opened another account because I couldn't access the information on here.
 - Nov 13 : I tried to deploy the app using streamlit but it gave me errors. To deploy you need to create a new repository with the files you want to deploy. The error is from the requirements.txt file. It says I need to upgrade. Well I deployed my first app today. The [scholarship recommender system](https://scholarship-recommender-system.streamlit.app/#what-do-you-do-next-with-this-information). The initial problem was with the `requirements.txt` file. Once I just included the libraries. It worked like magic.
 - Nov 15 : - I numbered the scholarship and embedded some useful Youtube videos in a column. I couldn't use codespace in streamlit to update the codes. It kept on saying something about numpy. I went ahead to update the code in Github. I made a post on Youtube to take suggestions on what to include in the app.
+- Nov 22 : -
 
