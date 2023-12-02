@@ -73,3 +73,5 @@ I am learning web scraping to be able to extract scholarship data directly from 
 - Nov 28 : I changed the front page a bit. Added a `Find scholarships button`. Came up with a new name 3SA : School and scholarship search app. There's a bug lol. I want the scholarship recommender system to start running only after the  `Find scholarships button` is clicked and everything went wayhire loL. I am doing this to solve the probelm where the web page starts with this 'There is currently no scholarships in for at this moment in the database. Try a closely related field or type All disciplines for your field on interest.
 ![App interface Nov 28](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/0e2d9bb03abc8eaec23b50c6c150e3e0cb826abc/images/app%20interface%20Nov%2027.png)
 
+- DEC 2 : Solving the problem of Nov 28 was hell lol. But finally it got done.
+![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/94ac33075cc7144b4ec6cee11faf56d2e73f3cdd/images/app%20interface%20Dec%202.png)
