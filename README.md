@@ -76,3 +76,6 @@ I am learning web scraping to be able to extract scholarship data directly from 
 
 - DEC 2 : Solving the problem of Nov 28 was hell lol. But finally it got done. I worked on the front page not starting with there’s no scholarship Now, I don't have this issue of 'There is currently no scholarships in for at this moment in the database. Try a closely related field or type All disciplines for your field on interest.' 
 ![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/94ac33075cc7144b4ec6cee11faf56d2e73f3cdd/images/app%20interface%20Dec%202.png)
+
+- DEC 4 : Filtered to include the link but had to drop it again because there were a lot of empty cells. I added the country as an optional filtering. There is a problem where once one clicks on click more for results with more than 10 information. The whole result vanish :-(
+![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/bb309a880aa3df6edc18f6628ec099d299ccdd07/images/app%20interface%20Dec%204%20.png)
