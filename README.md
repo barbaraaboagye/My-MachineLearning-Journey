@@ -79,3 +79,7 @@ I am learning web scraping to be able to extract scholarship data directly from 
 
 - DEC 4 : Filtered to include the link but had to drop it again because there were a lot of empty cells. I added the country as an optional filtering. There is a problem where once one clicks on click more for results with more than 10 information. The whole result vanish :-(
 ![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/bb309a880aa3df6edc18f6628ec099d299ccdd07/images/app%20interface%20Dec%204%20.png)
+
+- Dec 6 : Watched some videos on streamlit and checked apps others have built to get some inspirations. The idea of expanders/toggle list was interesting as well as including a buy me cofee sections. Included 2 videos : how to write a cold email and prepare for an interview. Added some emojis and colors.
+
+- ![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/d539de2d2db848e1d936d84234d90e1a2913f698/images/app%20interface%20Dec%206.png)
