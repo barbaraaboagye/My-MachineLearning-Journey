@@ -86,3 +86,5 @@ I am learning web scraping to be able to extract scholarship data directly from 
 
 - Dec 9 : I have finally come to an end with this web app lol. Yay. I made a few changes and additions from the start till the end. I added a buy me coffee button. Money is nice lol 💵. Solved the issue of the vanishing `Read more` button with expanders that store the other names. Used a drop down for the levels and country by selecting the unique countries and levels already in the database. It was a great learning experience. The next few days. I will use to go over the codes. Here is the [web app](https://scholarship-recommender-system.streamlit.app/)
  ![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/798f7559fc832f8600b0629b322584e3cd70ddf4/images/app%20interface%20Dec%209.png)
+
+- Dec 11 : I went over the pre-processing code.
