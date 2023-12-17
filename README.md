@@ -88,3 +88,5 @@ I am learning web scraping to be able to extract scholarship data directly from 
  ![](https://github.com/barbaraaboagye/Scholarship-Recommender-System/blob/798f7559fc832f8600b0629b322584e3cd70ddf4/images/app%20interface%20Dec%209.png)
 
 - Dec 11 : I went over the pre-processing code.
+- Dec 13 : I went over the code for the scholarship app (Still not done)
+- Dec 17 : I started writing the article titled " HOW TO BUILD A SCHOOL AND SCHOLARSHIP SEARCH APP (3SA) USING PYTHON AND STREAMLIT (PART 1) : DATA CLEANING AND PREPROCESSING"
