@@ -89,4 +89,4 @@ I am learning web scraping to be able to extract scholarship data directly from 
 
 - Dec 11 : I went over the pre-processing code.
 - Dec 13 : I went over the code for the scholarship app (Still not done)
-- Dec 17 : I started writing the article titled " HOW TO BUILD A SCHOOL AND SCHOLARSHIP SEARCH APP (3SA) USING PYTHON AND STREAMLIT (PART 1) : DATA CLEANING AND PREPROCESSING"
+- Dec 17 : I started writing the article titled ### HOW TO BUILD A SCHOOL AND SCHOLARSHIP SEARCH APP (3SA) USING PYTHON AND STREAMLIT (PART 1) : DATA CLEANING AND PREPROCESSING
