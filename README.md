@@ -27,7 +27,7 @@ The resources I am using can be found [here](https://github.com/barbaraaboagye/M
 - Taking the [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) from kaggle
 
 ## CHANGE OF PLANS
-
+3 years after - February 16, 2026, I have decided to restart this machine learning journney again. I have knowledge that is scattered. The goal is to use this scattered knowledge to **Build a machine learning model that predicts concrete compressive strength based on mix ingredients** uing the data set from [UCI ML Repository](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
 In March 2023 after a months break, I have decided to follow the framework/roadmap of [Made with ML](https://madewithml.com/)
 - March 12 - 19 : Finished the python foundation framework
     - Functions, Methods, List,Tuples, Sets, Dictionaries, list comprehension, Decorators, Callback etc
